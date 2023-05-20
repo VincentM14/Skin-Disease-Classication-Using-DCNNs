@@ -1,1 +1,1 @@
-# Skin-Disease-Classication-Using-DCNNs
+# Skin-Cancer
